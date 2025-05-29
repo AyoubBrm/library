@@ -5,9 +5,9 @@ This is a full-stack web application that allows users to explore a digital libr
 ## 🚀 Features
 
 - 🔍 Browse and search for books
-- 📘 View book details (title, author, availability, etc.)
+- 📘 View book details 
 - 🗓️ Book a book online
-- 🧾 User registration and login (optional)
+- 🧾 User registration and login
 - 🔐 Secure API with basic authentication
 - ⚙️ RESTful backend services
 
